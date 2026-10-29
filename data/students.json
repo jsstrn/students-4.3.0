@@ -1,11 +1,14 @@
 [
   {
-
+    "name": "Jesstern Rays",
+    "cohort": 1,
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Jesstern+Rays"
+  },
+  {
     "name": "John Doe",
     "cohort": 1,
     "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=John+Doe"
   },
-  
   {
     "name": "Jane Doe",
     "cohort": 1,
